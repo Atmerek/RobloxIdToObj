@@ -1,0 +1,14 @@
+{
+  "name": "robloxidtoobj",
+  "version": "1.0.0",
+  "description": "Downloads the .obj file of the Roblox player specified.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The_Atmerek",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
